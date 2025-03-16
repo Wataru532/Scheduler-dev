@@ -1,5 +1,9 @@
 # Scheduler Dev Version Log
 
+### v3.0.3 (2025/3/16)
+SchedulerのIconを新デザインへ統一。<br>
+開発環境をViteに移行。
+
 ### v3.0.2 (2025/2/9)
 Scheduler Dataの開発環境をReactに移行したことに伴い、ファイルサーバーを変更。<br>
 したがって、Schedulerの方のfetch urlを変更。

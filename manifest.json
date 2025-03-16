@@ -3,19 +3,19 @@
   "name": "Scheduler Dev",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "Scheduler_Icon_v3.svg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon",
       "purpose": "maskable"
     },
     {
-      "src": "logo192.png",
+      "src": "Scheduler_Icon_v3.svg",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
     },
     {
-      "src": "logo512.png",
+      "src": "Scheduler_Icon_v3.svg",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
