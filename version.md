@@ -1,6 +1,6 @@
 # Scheduler Dev Version Log
 
-### v3.0.3 (2025/3/16)
+### v3.0.3 (2025/3/17)
 SchedulerのIconを新デザインへ統一。<br>
 開発環境をViteに移行。
 
