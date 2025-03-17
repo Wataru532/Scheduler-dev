@@ -1,6 +1,9 @@
 # Scheduler Dev Version Log
 
-### v3.0.3 (2025/3/17)
+### vβ3.0.3.2 (2025/3/17)
+ErrorBoundaryを導入。
+
+### vβ3.0.3.1 (2025/3/16)
 SchedulerのIconを新デザインへ統一。<br>
 開発環境をViteに移行。
 
